@@ -1,4 +1,4 @@
-01 - Band Name Generator
+# 01 - Band Name Generator
 
 *Description
 A console app that generates a band name by combining user inputs.
