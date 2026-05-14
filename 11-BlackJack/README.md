@@ -1,4 +1,5 @@
-**11 - Blackjack**
+11 - Blackjack
+
 *Description A complete Blackjack game against the computer. You can hit or stand, the dealer plays automatically Aces are handled (11 -> 1 when you bust), and you can play multiple rounds in one session.
 
 *What I Learned
