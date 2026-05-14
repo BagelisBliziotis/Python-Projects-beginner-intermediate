@@ -1,4 +1,4 @@
-# 10 - Blackjack
+# 11 - Blackjack
 
 *Description
 A complete Blackjack game against the computer. You can hit or stand, the dealer plays automatically
