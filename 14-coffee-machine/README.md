@@ -11,4 +11,4 @@ pay with coins, receive change, view a resource report, and the machine automati
 - Coin calculation and change handling
 - while True loop control with break statements
 - Input validation and error handling
--First time using try,except 
+- First time using try,except 
