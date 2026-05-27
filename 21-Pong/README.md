@@ -13,5 +13,5 @@ Players control the paddles with keyboard keys. First to 10 points wins!
 
 ## Extra Features I Added
 - **Paddles cannot move outside the screen** (added boundary checks so paddles stay fully visible)
-- **Ball cannot double-bounce on the same paddle** (prevented instant double hits for fairer gameplay)
+- **Ball cannot double-bounce on the same paddle** (prevented instant double hits and buggy gameplay)
 
